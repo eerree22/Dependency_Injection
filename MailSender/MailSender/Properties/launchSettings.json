@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MailSender": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "UserName": "虎哥",
+        "SmtpServer": "Test@yahoo.com.tw"
+      }
+    }
+  }
+}

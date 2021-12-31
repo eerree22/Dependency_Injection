@@ -7,9 +7,10 @@ namespace MailServices
     public class Mailservice : IMailservice
     {
         private ILogProvider _logProvider;
-        private IConfigservice _configservice;
+        //private IConfigservice _configservice;
+        private IConfigReader _configservice;
 
-        public Mailservice(ILogProvider logProvider, IConfigservice configservice)
+        public Mailservice(ILogProvider logProvider, IConfigReader configservice)
         {
             _logProvider = logProvider;
             _configservice = configservice;

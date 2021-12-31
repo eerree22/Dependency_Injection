@@ -12,7 +12,10 @@ namespace MailSender
         static void Main(string[] args)
         {
             IServiceCollection services = new ServiceCollection();
-            //services.AddScoped<IConfigservice, EnvVarConfigservice>();
+
+            services.AddLayeredConfig();
+
+            services.AddScoped<IConfigservice, EnvVarConfigservice>();
 
             //***服務實作需要先設定時的寫法***
             //services.AddScoped(typeof(IConfigservice), x => new TextFileConfigService { FilePath = "MyMailConfig.txt" });
