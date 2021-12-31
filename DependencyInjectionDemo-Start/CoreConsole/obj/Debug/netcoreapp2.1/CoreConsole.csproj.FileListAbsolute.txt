@@ -1,0 +1,11 @@
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\bin\Debug\netcoreapp2.1\CoreConsole.deps.json
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\bin\Debug\netcoreapp2.1\CoreConsole.runtimeconfig.json
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\bin\Debug\netcoreapp2.1\CoreConsole.runtimeconfig.dev.json
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\bin\Debug\netcoreapp2.1\CoreConsole.dll
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\obj\Debug\netcoreapp2.1\CoreConsole.csprojAssemblyReference.cache
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\obj\Debug\netcoreapp2.1\CoreConsole.csproj.CoreCompileInputs.cache
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\obj\Debug\netcoreapp2.1\CoreConsole.AssemblyInfoInputs.cache
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\obj\Debug\netcoreapp2.1\CoreConsole.AssemblyInfo.cs
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\bin\Debug\netcoreapp2.1\CoreConsole.pdb
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\obj\Debug\netcoreapp2.1\CoreConsole.dll
+D:\程式筆記\DependencyInjectionDemo\DependencyInjectionDemo-Start\CoreConsole\obj\Debug\netcoreapp2.1\CoreConsole.pdb
