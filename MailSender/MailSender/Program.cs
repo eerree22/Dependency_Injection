@@ -11,13 +11,17 @@ namespace MailSender
     {
         static void Main(string[] args)
         {
-            ServiceCollection services = new ServiceCollection();
+            IServiceCollection services = new ServiceCollection();
             //services.AddScoped<IConfigservice, EnvVarConfigservice>();
 
             //***服務實作需要先設定時的寫法***
-            services.AddScoped(typeof(IConfigservice), x => new TextFileConfigService { FilePath = "MyMailConfig.txt" });
+            //services.AddScoped(typeof(IConfigservice), x => new TextFileConfigService { FilePath = "MyMailConfig.txt" });
 
-            services.AddScoped<ILogProvider, LogProvider>();
+            services.AddConfigService("MyMailConfig.txt");//改用擴充方法來新增服務
+
+            //services.AddScoped<ILogProvider, LogProvider>();
+            services.AddLogService();//改用擴充方法來新增服務
+
             services.AddScoped<IMailservice, Mailservice>();
 
             using (var Provider = services.BuildServiceProvider())
