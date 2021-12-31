@@ -1,0 +1,9 @@
+D:\程式筆記\Dependency_Injection\MailSender\ConfigServices\bin\Debug\netstandard2.0\ConfigServices.deps.json
+D:\程式筆記\Dependency_Injection\MailSender\ConfigServices\bin\Debug\netstandard2.0\ConfigServices.dll
+D:\程式筆記\Dependency_Injection\MailSender\ConfigServices\bin\Debug\netstandard2.0\ConfigServices.pdb
+D:\程式筆記\Dependency_Injection\MailSender\ConfigServices\obj\Debug\netstandard2.0\ConfigServices.csprojAssemblyReference.cache
+D:\程式筆記\Dependency_Injection\MailSender\ConfigServices\obj\Debug\netstandard2.0\ConfigServices.csproj.CoreCompileInputs.cache
+D:\程式筆記\Dependency_Injection\MailSender\ConfigServices\obj\Debug\netstandard2.0\ConfigServices.AssemblyInfoInputs.cache
+D:\程式筆記\Dependency_Injection\MailSender\ConfigServices\obj\Debug\netstandard2.0\ConfigServices.AssemblyInfo.cs
+D:\程式筆記\Dependency_Injection\MailSender\ConfigServices\obj\Debug\netstandard2.0\ConfigServices.dll
+D:\程式筆記\Dependency_Injection\MailSender\ConfigServices\obj\Debug\netstandard2.0\ConfigServices.pdb

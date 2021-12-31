@@ -1,0 +1,14 @@
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\bin\Debug\netstandard2.0\MailServices.deps.json
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\bin\Debug\netstandard2.0\MailServices.dll
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\bin\Debug\netstandard2.0\MailServices.pdb
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\bin\Debug\netstandard2.0\ConfigServices.dll
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\bin\Debug\netstandard2.0\LogServices.dll
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\bin\Debug\netstandard2.0\ConfigServices.pdb
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\bin\Debug\netstandard2.0\LogServices.pdb
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\obj\Debug\netstandard2.0\MailServices.csprojAssemblyReference.cache
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\obj\Debug\netstandard2.0\MailServices.csproj.CoreCompileInputs.cache
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\obj\Debug\netstandard2.0\MailServices.AssemblyInfoInputs.cache
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\obj\Debug\netstandard2.0\MailServices.AssemblyInfo.cs
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\obj\Debug\netstandard2.0\MailServices.csproj.CopyComplete
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\obj\Debug\netstandard2.0\MailServices.dll
+D:\程式筆記\Dependency_Injection\MailSender\MailServices\obj\Debug\netstandard2.0\MailServices.pdb
